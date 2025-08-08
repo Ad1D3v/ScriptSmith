@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain_gooogle_genai
+langchain_core
+langgraph
+e2b_code_interpreter
